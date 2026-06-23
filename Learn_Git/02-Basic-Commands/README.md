@@ -1,7 +1,7 @@
 # 🚀 Git Fundamentals Master Guide
 
 <p align="center">
-  <img src=". ./images/git-basics-cheatsheet.png.png" alt="Git Fundamentals Cheat Sheet" width="100%">
+  <img src="../images/git-basics-cheatsheet.png.png" alt="Git Fundamentals Cheat Sheet" width="100%">
 </p>
 
 <p align="center">
