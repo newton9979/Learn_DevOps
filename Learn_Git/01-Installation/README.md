@@ -84,7 +84,11 @@ assets/git-installation-flow.png
 ```
 
 ```markdown
+<<<<<<< HEAD
 ![Git Installation Workflow](./images/git-installation-flow.png)
+=======
+![Git Installation Workflow](../images/git-installation-flow.png)
+>>>>>>> 701c7b7833c1525791c08f0a99e84deb5ab77909
 ```
 
 ---
