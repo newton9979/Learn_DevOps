@@ -84,7 +84,7 @@ assets/git-installation-flow.png
 ```
 
 ```markdown
-![Git Installation Workflow](assets/git-installation-flow.png)
+![Git Installation Workflow](./images/git-installation-flow.png)
 ```
 
 ---

@@ -421,7 +421,7 @@ Learn how to configure Git, manage global settings, aliases, and user profiles.
 # 💻 Git Installation Guide (Windows, Linux & macOS)
 
 <p align="center">
-  <img src="../images/git-installation-guide.png" alt="Git Installation Guide" width="100%">
+  <img src="./images/git-installation-guide.png" alt="Git Installation Guide" width="100%">
 </p>
 
 <p align="center">
