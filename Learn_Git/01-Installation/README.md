@@ -44,25 +44,7 @@ After completing this module, you will be able to:
 │
 ├── README.md
 ├── 01-Install-Git-on-Windows.md
-├── 02-Install-Git-on-Linux.md
-├── 03-Install-Git-on-macOS.md
-├── 04-Verify-Git-Installation.md
-├── 05-First-Time-Git-Configuration.md
-├── 06-Git-Configuration-Levels.md
-├── 07-Git-Configuration-Commands.md
-├── 08-Git-Help-Commands.md
-├── 09-Common-Installation-Issues.md
-│
-└── assets/
-    ├── git-installation-flow.png
-    ├── install-git-windows.png
-    ├── install-git-linux.png
-    ├── install-git-macos.png
-    ├── verify-git-installation.png
-    ├── git-configuration-levels.png
-    ├── git-configuration-commands.png
-    ├── git-help-commands.png
-    └── common-installation-issues.png
+└── 02-Install-Git-on-Linux.md
 ```
 
 ---
