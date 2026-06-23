@@ -43,8 +43,8 @@ After completing this module, you will be able to:
 01-Installing-Git/
 │
 ├── README.md
-├── 01-Install-Git-on-Windows.md
-└── 02-Install-Git-on-Linux.md
+├── 01-Git-Installation-and-varification.md
+└── 02-First-Time-Configuration.md
 ```
 
 ---
