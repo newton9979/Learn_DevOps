@@ -1,115 +1,279 @@
+# 📘 Learn_Git
+
+A complete Git & GitHub learning repository containing detailed notes, examples, diagrams, hands-on labs, interview questions, and best practices.
+
+![Git](https://img.shields.io/badge/Git-Version%20Control-orange)
+![GitHub](https://img.shields.io/badge/GitHub-Repository-black)
+![Beginner Friendly](https://img.shields.io/badge/Beginner-Friendly-green)
+![Hands-On Labs](https://img.shields.io/badge/Hands--On-Labs-blue)
+
+---
+
+## 📌 About This Repository
+
+This repository is designed to help beginners and professionals learn Git and GitHub from the ground up.
+
+The content covers:
+
+* Git Fundamentals
+* Installation & Setup
+* Basic and Advanced Commands
+* Branching & Merging
+* Remote Repositories
+* Undo Operations
+* Best Practices
+* Hands-On Labs
+* Interview Questions
+* Cheat Sheets
+
+---
+
+## 📂 Repository Structure
+
+```text
 Learn_Git/
 │
-├── README.md
-├── LICENSE
-├── CONTRIBUTING.md
-├── CHANGELOG.md
-│
 ├── 00-Introduction/
-│   ├── 01-What-is-Git.md
-│   ├── 02-Why-Git.md
-│   ├── 03-Version-Control-System.md
-│   ├── 04-Centralized-vs-Distributed-VCS.md
-│   ├── 05-Git-vs-GitHub.md
-│   ├── 06-Git-Architecture.md
-│   ├── 07-Git-Workflow.md
-│   └── 08-Git-Lifecycle.md
-│
 ├── 01-Installation/
-│   ├── 01-Install-Git-on-Windows.md
-│   ├── 02-Install-Git-on-Linux.md
-│   ├── 03-Install-Git-on-macOS.md
-│   ├── 04-Verify-Installation.md
-│   └── 05-First-Time-Configuration.md
-│
 ├── 02-Basic-Commands/
-│   ├── 01-Git-Config.md
-│   ├── 02-Git-Init.md
-│   ├── 03-Git-Status.md
-│   ├── 04-Git-Add.md
-│   ├── 05-Git-Commit.md
-│   ├── 06-Git-Log.md
-│   ├── 07-Git-Diff.md
-│   ├── 08-Git-Show.md
-│   └── 09-Git-Help.md
-│
 ├── 03-Branching/
-│   ├── 01-Create-Branch.md
-│   ├── 02-Switch-Branch.md
-│   ├── 03-Checkout.md
-│   ├── 04-Merge.md
-│   ├── 05-Rebase.md
-│   ├── 06-Cherry-Pick.md
-│   ├── 07-Delete-Branch.md
-│   └── 08-Merge-Conflict.md
-│
 ├── 04-Remote-Repositories/
-│   ├── 01-GitHub-Setup.md
-│   ├── 02-Clone.md
-│   ├── 03-Remote.md
-│   ├── 04-Fetch.md
-│   ├── 05-Pull.md
-│   ├── 06-Push.md
-│   ├── 07-Fork.md
-│   └── 08-Pull-Request.md
-│
 ├── 05-Undo-Changes/
-│   ├── 01-Restore.md
-│   ├── 02-Reset.md
-│   ├── 03-Revert.md
-│   ├── 04-Amend.md
-│   ├── 05-Reflog.md
-│   └── 06-Recover-Deleted-Commits.md
-│
 ├── 06-Advanced-Git/
-│   ├── 01-Stash.md
-│   ├── 02-Tags.md
-│   ├── 03-Bisect.md
-│   ├── 04-Hooks.md
-│   ├── 05-Submodules.md
-│   ├── 06-Git-Aliases.md
-│   ├── 07-Sparse-Checkout.md
-│   └── 08-Git-LFS.md
-│
 ├── 07-Best-Practices/
-│   ├── 01-Commit-Messages.md
-│   ├── 02-Gitignore.md
-│   ├── 03-Branching-Strategy.md
-│   ├── 04-GitFlow.md
-│   ├── 05-GitHub-Flow.md
-│   ├── 06-Code-Review.md
-│   └── 07-Security-Best-Practices.md
-│
 ├── 08-Hands-On-Labs/
-│   ├── Lab-01-Initialize-Repository.md
-│   ├── Lab-02-Commit-Changes.md
-│   ├── Lab-03-Branching.md
-│   ├── Lab-04-Merge-Conflict.md
-│   ├── Lab-05-Remote-Repository.md
-│   ├── Lab-06-Rebase.md
-│   ├── Lab-07-Stash.md
-│   ├── Lab-08-Tags.md
-│   ├── Lab-09-Recover-Commit.md
-│   └── Lab-10-Complete-Git-Project.md
-│
 ├── 09-Interview-Questions/
-│   ├── 01-Beginner.md
-│   ├── 02-Intermediate.md
-│   ├── 03-Advanced.md
-│   └── 04-Scenario-Based.md
-│
-├── assets/
-│   ├── diagrams/
-│   ├── flowcharts/
-│   ├── images/
-│   ├── screenshots/
-│   ├── icons/
-│   └── gifs/
-│
 ├── cheat-sheet/
-│   └── Git-Cheat-Sheet.pdf
-│
-└── resources/
-    ├── References.md
-    ├── Useful-Links.md
-    └── Books.md
+├── images/
+├── resources/
+└── README.md
+```
+
+---
+
+## 🎯 Topics Covered
+
+### 00 - Introduction
+
+* What is Git?
+* What is GitHub?
+* Version Control System
+* Benefits of Git
+
+### 01 - Installation
+
+* Install Git on Linux
+* Install Git on Windows
+* Install Git on macOS
+* Verify Installation
+
+### 02 - Basic Commands
+
+```bash
+git init
+git clone
+git status
+git add
+git commit
+git log
+git diff
+```
+
+### 03 - Branching
+
+```bash
+git branch
+git checkout
+git switch
+git merge
+git rebase
+```
+
+### 04 - Remote Repositories
+
+```bash
+git remote add origin
+git push
+git pull
+git fetch
+git clone
+```
+
+### 05 - Undo Changes
+
+```bash
+git restore
+git reset
+git revert
+```
+
+### 06 - Advanced Git
+
+* Stashing
+* Rebase
+* Cherry Pick
+* Squash Commits
+* Tags
+
+### 07 - Best Practices
+
+* Meaningful Commit Messages
+* Branch Naming Standards
+* Pull Request Workflow
+* Repository Organization
+
+### 08 - Hands-On Labs
+
+* Create Local Repository
+* Create Feature Branch
+* Merge Branches
+* Resolve Merge Conflicts
+* Push Code to GitHub
+
+### 09 - Interview Questions
+
+Common Git and GitHub interview questions with answers.
+
+---
+
+## 🚀 Quick Start
+
+Clone the repository:
+
+```bash
+git clone https://github.com/newton9979/Learn_Git.git
+```
+
+Move into the project directory:
+
+```bash
+cd Learn_Git
+```
+
+Start learning from:
+
+```text
+00-Introduction
+```
+
+and continue sequentially.
+
+---
+
+## 📝 Most Frequently Used Git Commands
+
+### Configure Git
+
+```bash
+git config --global user.name "Your Name"
+git config --global user.email "your@email.com"
+```
+
+### Create Repository
+
+```bash
+git init
+```
+
+### Clone Repository
+
+```bash
+git clone <repository-url>
+```
+
+### Check Status
+
+```bash
+git status
+```
+
+### Add Changes
+
+```bash
+git add .
+```
+
+### Commit Changes
+
+```bash
+git commit -m "Initial Commit"
+```
+
+### Push Code
+
+```bash
+git push origin main
+```
+
+### Pull Latest Changes
+
+```bash
+git pull origin main
+```
+
+### Create Branch
+
+```bash
+git checkout -b feature-branch
+```
+
+### Merge Branch
+
+```bash
+git merge feature-branch
+```
+
+---
+
+## 🎓 Who Is This Repository For?
+
+* Beginners learning Git
+* Students preparing for interviews
+* DevOps Engineers
+* Cloud Engineers
+* Developers
+* System Administrators
+
+---
+
+## 🤝 Contributing
+
+Contributions, suggestions, and improvements are welcome.
+
+Feel free to:
+
+* Fork the repository
+* Create a branch
+* Submit a Pull Request
+
+---
+
+## ⭐ Support
+
+If you find this repository helpful:
+
+⭐ Star the repository
+
+🔁 Share it with others
+
+---
+
+## 👨‍💻 Author
+
+**Newton Babu Nandru**
+
+GitHub: https://github.com/newton9979
+
+---
+
+### Happy Learning 🚀
+
+Master Git, collaborate effectively, and build better software.
+
+# 📘 Learn_Git
+
+<p align="center">
+  <img src="images/git-github-learning-roadmap.png" alt="Learn Git Repository" width="100%">
+</p>
+
+A complete Git & GitHub learning repository containing detailed notes, examples, hands-on labs, interview questions, and best practices.
