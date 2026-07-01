@@ -4,7 +4,7 @@
 
 # Learn Git Repository Overview
 
-<img src="assets/learn-git-roadmap.png" alt="Learn Git Roadmap" width="100%">
+<img src="images/learn-git-roadmap.png" alt="Learn Git Roadmap" width="100%">
 
 </p>
 
